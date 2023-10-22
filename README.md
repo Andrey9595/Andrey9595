@@ -12,6 +12,8 @@
 
 [Разбор тестового задания на позицию Android Developer](https://habr.com/ru/articles/746146/)
 
+[Реализация экранов авторизации и регистрации с помощью Custom View и Firebase](https://habr.com/ru/articles/768166/)
+
 </td><td valign="top" width="33%">
 
 
